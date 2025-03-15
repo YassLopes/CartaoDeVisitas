@@ -61,7 +61,6 @@ export default function TabTwoScreen() {
           style={{
           alignSelf: 'center',
           height: 200,
-          width: undefined,
           resizeMode: 'contain',
           }}
         />
